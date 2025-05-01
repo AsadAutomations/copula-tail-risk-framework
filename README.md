@@ -24,8 +24,8 @@ An advanced quantitative risk management system for joint tail modeling using:
 ## ✅ Completed Phases
 
 - [x] Phase 0: Repo Setup
-- [ ] Phase 1: Data Collection & Preprocessing
-- [ ] Phase 2: EVT Tail Modeling
+- [x] Phase 1: Data Collection & Preprocessing
+- [x] Phase 2: EVT Tail Modeling
 - [ ] Phase 3: Copula Dependency Structure
 - [ ] Phase 4: Regime Detection
 - [ ] Phase 5: Stress Testing Engine
